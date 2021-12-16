@@ -172,5 +172,9 @@ hr {
   .card-wrapper {
     width: 80%;
   }
+  .icon {
+    top: 6.2rem;
+    left: 7.5rem;
+  }
 }
 
